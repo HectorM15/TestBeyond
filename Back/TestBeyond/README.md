@@ -1,6 +1,7 @@
 # TestBeyond API
 
-Este proyecto representa la parte back-end del sistema TodoList. Está construido con **.NET 8**, siguiendo principios de **arquitectura limpia** y **DDD**.
+Este proyecto representa la parte back-end del sistema TodoList. Está construido con **.NET 8**
+
 
 ---
 
